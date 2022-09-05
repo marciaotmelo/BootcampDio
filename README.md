@@ -1,7 +1,8 @@
 # BootcampDio
  Construindo um Esquema Conceitual do Zero - Modelo de oficina mecânica.
  
- O objetivo do projeto é cria o esquema conceitual com base na narrativa fornecida.
+ __O objetivo do projeto é cria o esquema conceitual com base na narrativa fornecida.__
+
 
 Narrativa:
 
@@ -29,5 +30,9 @@ Narrativa:
 
 •	O modelo pode ser visto abaixo e baixado acima. Se você achar que este modelo deve passar por atualizações, fique à vontade para recomendá-lo.
 
+Modelo Abaixo
 
+***
+
+![Oficina_Mecânica](https://user-images.githubusercontent.com/108886670/188520835-89f27a81-2c99-41f8-a3e8-42f87a10555c.png)
 
