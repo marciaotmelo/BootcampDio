@@ -4,6 +4,7 @@
  O objetivo do projeto é cria o esquema conceitual com base na narrativa fornecida.
 
 Narrativa:
+
 •	Sistema de controle e gerenciamento de execução de ordens de serviço em oficina mecânica.
 •	Clientes levam os veículos à oficina mecânica para serem consertados ou para passarem por revisão periódicas.
 •	Cada veículo é designado a uma equipe de mecânicos que identificam os serviços a serem executados e preenchem um OS com data de entrega.
