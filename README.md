@@ -1,5 +1,5 @@
 # BootcampDio
- Construindo um Esquema Conceitual do Zero - Modelo de oficina mecânica.
+ Construindo um Esquema Conceitual do Zero - Modelo de oficina mecânica. Sendo aplicado o DER.
  
  __O objetivo do projeto é cria o esquema conceitual com base na narrativa fornecida.__
 
